@@ -59,3 +59,4 @@ This project uses an ESP32 running MicroPython to monitor temperature and humidi
    - **Send** `/temp`: Get current readings: "Temperature: X.XXC\\nHumidity: X.XX%".
    - **WiFi Drops**: Auto-reconnects with retries every 10s.
    - **Errors**: Telegram HTTP errors (e.g., 400) or DHT OSErrors skip the cycle without crashing.
+   - ![photo_2025-09-02 11 37 54](https://github.com/user-attachments/assets/499cbb8a-583e-4d5c-b224-ce358d4b1197)
